@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+/* Typography is the way  that text 
+is arranged and presented */
+
+
+body{
+    padding:10%;
+    font-size: 2rem;
+}
+
+/* input, button{
+    font: inherit;
+}
+ */
+
+p{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    line-break: strict;
+    line-height: 1.5;
+}
